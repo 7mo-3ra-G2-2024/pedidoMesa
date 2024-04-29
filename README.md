@@ -1,2 +1,1 @@
-# pedidoMesa
-Toma el pedido de la mesa 
+# pedir_pedidos

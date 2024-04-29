@@ -1,0 +1,11 @@
+[
+    {"nombre": "Bondiola", "precio": 1000, "imagen":"https://www.paulinacocina.net/wp-content/uploads/2021/05/bondiola-a-la-cerveza.jpg"},
+    {"nombre": "Matambre", "precio": 1500, "imagen":"https://www.cronica.com.ar/__export/1664637277207/sites/cronica/img/2022/10/01/receta-matambre-a-la-pizza_crop1664636971797.png_1833193316.png"},
+    {"nombre": "Choripan", "precio": 2000, "imagen":"https://as1.ftcdn.net/v2/jpg/03/67/42/44/1000_F_367424488_TXFw63RBf4dUViT5BJJ9D0cHuJg4qiYA.jpg"},
+    {"nombre": "Sandwich de lomo", "precio": 2500, "imagen": "https://media.timeout.com/images/106120335/750/562/image.webp"},
+    {"nombre": "Empanadas carne", "precio":2200, "imagen": "https://imag.bonviveur.com/empanadas-argentinas-de-carne-foto-cerca_1000.webp"},
+    {"nombre": "Empanadas pollo", "precio":2200, "imagen": "https://tumilanesa.com.ar/wp-content/uploads/2023/05/empanadas-pollo-jugosas-1024x556.jpg"},
+    {"nombre": "Milanesa con pure", "precio":3000, "imagen": "https://as1.ftcdn.net/v2/jpg/03/55/97/70/1000_F_355977015_curwlyPq3xE5a3GruSEqLqj4LgNB0trS.jpg"},
+    {"nombre": "Bife con pure", "precio": 3200, "imagen": "https://st.depositphotos.com/1001719/2416/i/380/depositphotos_24167691-stock-photo-mashed-potatoes-and-beef-steak.jpg"},
+    {"nombre": "Costillitas", "precio": 5200, "imagen": "https://cdn7.kiwilimon.com/brightcove/9854/640x640/9854.jpg.webp"}
+]
